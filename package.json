@@ -8,7 +8,7 @@
   },
   "main": "app.js",
   "dependencies": {
-    "framerjs-prebuilt": "git+https://github.com/joetheday/framerjs-prebuilt.git"
+    "framerjs-prebuilt": "git+https://github.com/joetheday/framerjs-prebuilt.git#update_to_0590c8c8"
   },
   "devDependencies": {
     "browserify": "^11.0.1",
